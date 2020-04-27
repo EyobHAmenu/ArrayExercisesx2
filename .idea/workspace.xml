@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcb3769e-dcbe-4887-a3ca-f121da69d715" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayExercises2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ArrayExercises2/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayProcessing/ArrayProcessing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayProcessing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayProcessing/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/ComparingStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/src/CompStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/DictionaryWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/src/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences/EscapeSequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences/src/EscapeSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/FixError.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/src/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzz/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameofDice/GameofDice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameofDice/src/DiceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingandStoring/GettingandStoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingandStoring/src/getStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IffyLoopy/IffyLoopy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IffyLoopy/src/IffyLoopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/Ask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopExercises2/LoopExercises2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopExercises2/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loopdebugging/Loopdebugging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loopdebugging/src/EndlessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops10/Loops10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops10/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/NestedforLoopActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/src/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomDebugging/RandomDebugging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomDebugging/src/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatingWhileloop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatingWhileloop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatingWhileloop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatingWhileloop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatingWhileloop/RepeatingWhileloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatingWhileloop/src/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/ReplaceCommonWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/src/replaceWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringAssignment/StringAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringAssignment/src/StrAssi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchStatment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchStatment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchStatment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchStatment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchStatment/SwitchStatment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchStatment/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/TeastScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/src/testScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/UsingSubstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/out/production/UsingSubstring/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/src/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatIfCompletionActivity/WhatIfCompletionActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatIfCompletionActivity/src/PairProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/Whatdoesthiscodedo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/src/MortgageCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Complet_If" beforeDir="false" afterPath="$PROJECT_DIR$/../Complet_If" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessGame/out/production/GuessGame/guessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/out/production/GuessGame/guessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Positive_Negative" beforeDir="false" afterPath="$PROJECT_DIR$/../Positive_Negative" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstjava" beforeDir="false" afterPath="$PROJECT_DIR$/../myfirstjava" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1azcAAex81CzRw30xwDfeGY0Fii" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="ArrayExercises2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb3769e-dcbe-4887-a3ca-f121da69d715" name="Default Changelist" comment="" />
+      <created>1587741716139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587741716139</updated>
+      <workItem from="1587741717679" duration="19712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="268" key="GridCell.Tab.0.bottom" timestamp="1587956233578">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="268" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587956233578" />
+    <state width="1358" height="268" key="GridCell.Tab.0.center" timestamp="1587956233577">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="268" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587956233577" />
+    <state width="1358" height="268" key="GridCell.Tab.0.left" timestamp="1587956233576">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="268" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587956233575" />
+    <state width="1358" height="268" key="GridCell.Tab.0.right" timestamp="1587956233577">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="268" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587956233577" />
+  </component>
+</project>
