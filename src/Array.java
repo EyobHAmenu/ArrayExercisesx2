@@ -68,20 +68,9 @@ public class Array {
             then display those combination.
          */
 
-        int arr1 [] = new int [5];
-        int arr2 [] = new int[5];
+        int arr1 [] = {1,7,6,5,9};
+        int arr2 [] = {2,7,6,3,4};
 
-
-        for (int i = 0; i < arr1.length ; i++) {
-            System.out.print("Enter your number for array 1: ");
-            arr1[i] = in.nextInt();
-        }
-
-        for (int i = 0; i < arr2.length ; i++) {
-            System.out.print("Enter your number for array 2: ");
-            arr2[i] = in.nextInt();
-        }
-        System.out.println();
         System.out.println(Arrays.toString(arr1));
         System.out.println(Arrays.toString(arr2));
 

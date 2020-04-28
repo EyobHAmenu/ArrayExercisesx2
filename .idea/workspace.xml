@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcb3769e-dcbe-4887-a3ca-f121da69d715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayExercises2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArrayExercises2/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListDebuggingActivity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListDebuggingActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListDebuggingActivity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListDebuggingActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListDebuggingActivity/ArrayListDebuggingActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListDebuggingActivity/src/ArrayListDebugging.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/vcs.xml" afterDir="false" />
@@ -52,6 +51,13 @@
       <change afterPath="$PROJECT_DIR$/../EscapeSequences/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EscapeSequences/EscapeSequences.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EscapeSequences/src/EscapeSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/EscapeSequences2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EscapeSequences2/out/production/EscapeSequences2/Escape_Sequences_2.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FixError/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FixError/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FixError/.idea/modules.xml" afterDir="false" />
@@ -72,16 +78,32 @@
       <change afterPath="$PROJECT_DIR$/../IffyLoopy/src/IffyLoopy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InputOutput/src/Ask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LockerProblem/LockerProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LockerProblem/src/Locker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopExercises2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopExercises2/LoopExercises2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopExercises2/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopcompletionActivity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopcompletionActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopcompletionActivity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopcompletionActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopcompletionActivity/LoopcompletionActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopcompletionActivity/src/Loop_Completion_Activity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Loopdebugging/Loopdebugging.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Loopdebugging/src/EndlessStrings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Loops10/Loops10.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Loops10/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/MultidimensionalArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/out/production/MultidimensionalArrays/MultidimensionalArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/src/MultidimensionalArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/modules.xml" afterDir="false" />
@@ -106,6 +128,12 @@
       <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/ReplaceCommonWord.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/src/replaceWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleHangman/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleHangman/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleHangman/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleHangman/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleHangman/SimpleHangman.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleHangman/src/Simple_Hangman.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StringAssignment/StringAssignment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StringAssignment/src/StrAssi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SwitchStatment/.idea/misc.xml" afterDir="false" />
@@ -137,6 +165,9 @@
       <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/Whatdoesthiscodedo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/src/MortgageCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayExercises2/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayExercises2/Array.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Complet_If" beforeDir="false" afterPath="$PROJECT_DIR$/../Complet_If" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CreatApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" afterDir="false" />
@@ -158,7 +189,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1azcAAex81CzRw30xwDfeGY0Fii" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -169,6 +200,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -205,7 +237,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587741716139</updated>
-      <workItem from="1587741717679" duration="19712000" />
+      <workItem from="1587741717679" duration="21222000" />
+      <workItem from="1588041096609" duration="337000" />
     </task>
     <servers />
   </component>
@@ -222,23 +255,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="268" key="GridCell.Tab.0.bottom" timestamp="1587956233578">
+    <state width="1358" height="231" key="GridCell.Tab.0.bottom" timestamp="1587996451441">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="268" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587956233578" />
-    <state width="1358" height="268" key="GridCell.Tab.0.center" timestamp="1587956233577">
+    <state width="1358" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587996451441" />
+    <state width="1358" height="231" key="GridCell.Tab.0.center" timestamp="1587996451439">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="268" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587956233577" />
-    <state width="1358" height="268" key="GridCell.Tab.0.left" timestamp="1587956233576">
+    <state width="1358" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587996451439" />
+    <state width="1358" height="231" key="GridCell.Tab.0.left" timestamp="1587996451438">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="268" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587956233575" />
-    <state width="1358" height="268" key="GridCell.Tab.0.right" timestamp="1587956233577">
+    <state width="1358" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587996451438" />
+    <state width="1358" height="231" key="GridCell.Tab.0.right" timestamp="1587996451440">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="268" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587956233577" />
+    <state width="1358" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587996451440" />
+    <state x="68" y="64" key="new project wizard" timestamp="1587958387088">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="68" y="64" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1587958387086" />
   </component>
 </project>
